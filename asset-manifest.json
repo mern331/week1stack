@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/week1stack/static/css/main.99c46656.css",
-    "main.js": "/week1stack/static/js/main.1249b1b2.js",
-    "static/js/787.35b64e30.chunk.js": "/week1stack/static/js/787.35b64e30.chunk.js",
+    "main.css": "/week1stack/static/css/main.ac5516ae.css",
+    "main.js": "/week1stack/static/js/main.0b7e8e0e.js",
+    "static/js/453.b25e3508.chunk.js": "/week1stack/static/js/453.b25e3508.chunk.js",
+    "static/media/logo.svg": "/week1stack/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/week1stack/index.html",
-    "main.99c46656.css.map": "/week1stack/static/css/main.99c46656.css.map",
-    "main.1249b1b2.js.map": "/week1stack/static/js/main.1249b1b2.js.map",
-    "787.35b64e30.chunk.js.map": "/week1stack/static/js/787.35b64e30.chunk.js.map"
+    "main.ac5516ae.css.map": "/week1stack/static/css/main.ac5516ae.css.map",
+    "main.0b7e8e0e.js.map": "/week1stack/static/js/main.0b7e8e0e.js.map",
+    "453.b25e3508.chunk.js.map": "/week1stack/static/js/453.b25e3508.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.99c46656.css",
-    "static/js/main.1249b1b2.js"
+    "static/css/main.ac5516ae.css",
+    "static/js/main.0b7e8e0e.js"
   ]
 }
